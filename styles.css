@@ -1,0 +1,35 @@
+
+.header {
+    background-color:aqua;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    background-color: rgba(248, 205, 167, 0.568)
+}
+
+.nav_menu {
+    float: left; 
+    display: block; 
+    text-align: center; 
+    padding: 14px;
+}
+
+h2 {
+    color:goldenrod
+}
+p {
+    text-align: left;
+    padding-top: 10px;
+
+}
+.column1, .column2 { 
+    float: left; 
+    width: 25%; 
+    padding: 30px; 
+    text-align:justify;
+}
+.footer { 
+    padding: 15px; 
+    text-align: center;
+}
